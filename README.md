@@ -16,8 +16,8 @@ Quick Links:
 
 <a id="update"></a>
 ### Update:
- - solarbuddy is the 4WD car that is built based on the Raspberry Pi, with the functions, including line following, following, obstacle avoidance, speed testing,  remote control, radar testing and use the web page to control the solarbuddy
-2019-09-21:
+ - solarbuddy is the car that is built based on the Raspberry Pi, with the functions, including line following, following, obstacle avoidance, speed testing,  remote control, radar testing and use the web page to control the solarbuddy
+2023-12-05:
  - New Release
 
 ----------------------------------------------
